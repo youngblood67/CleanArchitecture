@@ -1,0 +1,1 @@
+dotnet new webapi -n Restaurants.API --no-openapi -controllers
